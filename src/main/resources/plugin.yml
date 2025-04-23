@@ -1,0 +1,12 @@
+name: PufferfishKeyViewer
+version: 1.0
+main: Ev0ze.pufferfishKeyViewer.PufferfishKeyViewer
+api-version: 1.20
+authors: [ ev0ze ]
+website: https://ev0ze.dev
+
+commands:
+  pkv:
+    description: PufferfishKeyViewer commands
+    usage: /pkv <browse|help>
+    permission: pufferfishkeyviewer.use
